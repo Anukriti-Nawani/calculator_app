@@ -9,7 +9,7 @@ Tech Stack: HTML, CSS, JavaScript
 Description:
 It is a numeric calculation application where user can do basic operation like + - * / .
 
-
+Demo: https://calculator-app-gamma-six.vercel.app/
   
 ### Preview
 
